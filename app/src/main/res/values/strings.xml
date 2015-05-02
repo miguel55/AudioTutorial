@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AudioTutorial</string>
+    <string name="Grab">Fase de Grabación</string>
+    <string name="Rep">Fase de Reproducción</string>
+    <string name="opcGrab1">EMPEZAR GRABACIÓN</string>
+    <string name="opcGrab2">DETENER GRABACIÓN</string>
+    <string name="opcGrab3">REPRODUCIR SEÑAL</string>
+    <string name="opcGrab4">DETENER REPRODUCCIÓN</string>
+    <string name="estado">Estado</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_reproducir">ReproducirActivity</string>
+</resources>
